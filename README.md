@@ -16,11 +16,16 @@ If you have use-package setup on your system loading almost-mono-themes is as si
 
 ```lisp
 (use-package almost-mono-themes
+  :straight (almost-mono-themes
+             :type git
+             :host github
+             :repo "mjhika/almost-mono-themes")
   :config
-  ;; (load-theme 'almost-mono-black t)
-  ;; (load-theme 'almost-mono-gray t)
-  ;; (load-theme 'almost-mono-cream t)
-  (load-theme 'almost-mono-white t))
+    ;; (load-theme 'almost-mono-black t)
+    ;; (load-theme 'almost-mono-gray t)
+    ;; (load-theme 'almost-mono-cream t)
+    ;; (load-theme 'almost-mono-white t)
+    (load-theme 'almost-mono-green t))
 ```
 
 Manual installation
