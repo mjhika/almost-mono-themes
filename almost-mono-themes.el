@@ -76,7 +76,7 @@
 
     (green . ((background  . "#3c493f")
 	      (foreground  . "#f0f7f4")
-              (foreground2 . "#cfe4db")
+              (foreground2 . "#9fc9b6")
 	      (weak	   . "#b3bfb8")
 	      (weaker	   . "#7e8d85")
 	      (weakest     . "#252d26")
