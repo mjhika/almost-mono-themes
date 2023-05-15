@@ -3,9 +3,11 @@ Almost mono themes
 
 A collection of almost monochrome emacs themes in a couple of variants.
 
-![almost-mono-white](https://raw.githubusercontent.com/cryon/almost-mono-themes/master/readme-files/almost-mono-white.png)
-
-![almost-mono-black](https://raw.githubusercontent.com/cryon/almost-mono-themes/master/readme-files/almost-mono-black.png)
+![almost-mono-green](readme-files/green.png "green")
+![almost-mono-white](readme-files/white.png "white")
+![almost-mono-black](readme-files/black.png "black")
+![almost-mono-gray](readme-files/gray.png "gray")
+![almost-mono-cream](readme-files/cream.png "cream")
 
 Installation
 ============
