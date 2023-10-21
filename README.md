@@ -14,7 +14,7 @@ Installation
 
 Use package
 -----------
-If you have use-package setup on your system loading almost-mono-themes is as simple as:
+If you have straight.el setup on your system loading almost-mono-themes is as simple as:
 
 ```lisp
 (use-package almost-mono-themes
