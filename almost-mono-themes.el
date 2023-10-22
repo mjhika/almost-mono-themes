@@ -83,7 +83,7 @@
 	      (highlight   . "#809b8e")
 	      (warning	   . "#dc758f")
 	      (success	   . "#82c974")
-	      (string      . "#5090cb")))))
+	      (string      . "#bea8a6")))))
 
 (defmacro almost-mono-themes--variant-with-colors (variant &rest body)
   "Execute BODY in a scope where the different colors for given VARIANT is bound."
